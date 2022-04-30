@@ -3,7 +3,7 @@
  */
 #include "include/RingBuffer.h"
 #include <iostream>
-#include "velocity.h"
+#include "acceleration.h"
 #define Encoder_output_A 2 // pin2 of the Arduino
 #define Encoder_output_B 3 // pin 3 of the Arduino
 // these two pins has the hardware interrupts as well. 
